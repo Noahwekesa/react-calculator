@@ -1,11 +1,11 @@
 # This is a basic React calculator
-![projext image](screenshoot/calculator.img)
+![screenshot](https://github.com/noahwekesa/react-calculator/blob/main/calculator.png?raw=true)
 
 
 
 git clone repo
 ```
-git clone https://github.com/Noahwekesa/react-calculator.git
+git clone https://github.com/Noahwekesa/react-calculator.git 
 ```
 First, run the development server:
 

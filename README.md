@@ -1,5 +1,5 @@
 # This is a basic React calculator
-![screenshot](https://github.com/noahwekesa/react-calculator/blob/main/calculator.png?raw=true)
+![screenshot](https://github.com/Noahwekesa/react-calculator/blob/main/screenshot/calculator.png?raw=true)
 
 
 
@@ -19,5 +19,5 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with browser to view the app
 
